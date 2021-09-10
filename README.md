@@ -1,5 +1,5 @@
 - Hi! I’m Yu Long @Reimirno
-- I spent my childhood in China, studied in Singapore for my high school, and am currently enrolled at UC Berkeley for EECS major
+- I spent my childhood in China, studied in Singapore for my high school, and am currently enrolled @ UC Berkeley EECS major
 - I'm building personal website [here](https://reimirno.github.io/)
 - You can reach me at johnsonlongyu@gmail.com
 
