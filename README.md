@@ -4,6 +4,7 @@
 - You can reach me at johnsonlongyu@gmail.com
 
 Personal Highlights:
+- Currrently researching @ UC Berkeley under Professor Brian Barsky
 - Participated extensively in building [Touhou Blooming Chaos 2](https://store.steampowered.com/app/1260810/Touhou_Blooming_Chaos_2/) that sold 50k+ copies and rated "Overwhelmingly Positive" on Steam
 - Independently developed [5 character extension packs](https://store.steampowered.com/search/?term=Touhou+Blooming+Chaos+2+-+Chara+Pack) involving 20+ characters which sold 10k+ copies
 - Led a medal-winning data science research in Singapore National Science and Engineering Fair
